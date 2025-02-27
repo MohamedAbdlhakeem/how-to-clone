@@ -2,7 +2,7 @@
 -- ODS Data - 693500 - SME Banking Loan Origination System - Drop#1
 --------------------------------------------------------------------------------
 
--- ALC  
+-- ALC
 DECLARE
   V_MAX_EVNT  VARCHAR2(10);
 BEGIN
